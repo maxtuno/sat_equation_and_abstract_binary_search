@@ -2,6 +2,8 @@
 
 ## update from public research
 
+<img src="https://raw.githubusercontent.com/maxtuno/sat_equation_and_abstract_binary_search/master/Screen%20Shot%202018-03-02%20at%2012.15.01%20PM.png" alt="UNT" style="float: left; margin-right: 10px;" />
+
 ```c++
 ///////////////////////////////////////////////////////////////////////////////
 //   copyright (complexity) 2012-2018 Oscar Riveros. all rights reserved.    //
