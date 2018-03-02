@@ -9,7 +9,7 @@
 ```c++
 ///////////////////////////////////////////////////////////////////////////////
 //   copyright (complexity) 2012-2018 Oscar Riveros. all rights reserved.    //
-//                           oscar.riveros@peqnp.com                         //
+//                          oscar.riveros[.]peqnp.com                        //
 //                                                                           //
 //   without any restriction, Oscar Riveros reserved rights, patents and     //
 //  commercialization of this knowledge or derived directly from this work.  //
