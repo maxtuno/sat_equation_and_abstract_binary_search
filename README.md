@@ -10,10 +10,16 @@
 //  commercialization of this knowledge or derived directly from this work.  //
 ///////////////////////////////////////////////////////////////////////////////
 
-// https://independent.academia.edu/oarr
-// https://twitter.com/maxtuno
-// https://soundcloud.com/maxtuno
-// https://www.youtube.com/channel/UC6PfipcnvSkYgWFkCpjvixQ
-// https://klout.com/#/maxtuno
-// http://jango.com/music/Oscar+Riveros
-// https://www.reverbnation.com/maxtuno
+https://independent.academia.edu/oarr
+
+https://twitter.com/maxtuno
+
+https://soundcloud.com/maxtuno
+
+https://www.youtube.com/channel/UC6PfipcnvSkYgWFkCpjvixQ
+
+https://klout.com/#/maxtuno
+
+http://jango.com/music/Oscar+Riveros
+
+https://www.reverbnation.com/maxtuno
