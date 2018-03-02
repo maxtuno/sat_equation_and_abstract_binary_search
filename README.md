@@ -1,4 +1,4 @@
-# sat_equation_and_abstract_binary_search
+# SAT Equation & Abstract Binary Search
 
 ## update from public research
 
