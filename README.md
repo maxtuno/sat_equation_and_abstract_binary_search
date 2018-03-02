@@ -2,14 +2,6 @@
 
 ## update from public research
 
-///////////////////////////////////////////////////////////////////////////////
-//        copyright (complexity) 2012-2018 Oscar Riveros. all rights reserved.        //
-//                           oscar.riveros@peqnp.com                         //
-//                                                                           //
-//   without any restriction, Oscar Riveros reserved rights, patents and     //
-//  commercialization of this knowledge or derived directly from this work.  //
-///////////////////////////////////////////////////////////////////////////////
-
 https://independent.academia.edu/oarr
 
 https://twitter.com/maxtuno
